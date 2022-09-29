@@ -1,23 +1,23 @@
-/vendor/
-node_modules/
-npm-debug.log
-yarn-error.log
+crud-react/vendor/
+crud-react/node_modules/
+crud-react/npm-debug.log
+crud-react/yarn-error.log
 
 # Laravel 4 specific
-bootstrap/compiled.php
-app/storage/
+crud-react-laravel/bootstrap/compiled.php
+crud-react-laravel/app/storage/
 
 # Laravel 5 & Lumen specific
-public/storage
-public/hot
+crud-react-laravel/public/storage
+crud-react-laravel/public/hot
 
 # Laravel 5 & Lumen specific with changed public path
-public_html/storage
-public_html/hot
+crud-react-laravel/public_html/storage
+crud-react-laravel/public_html/hot
 
-storage/*.key
-.env
-Homestead.yaml
-Homestead.json
+crud-react-laravel/storage/*.key
+crud-react-laravel/.env
+crud-react-laravel/Homestead.yaml
+crud-react-laravel/Homestead.json
 /.vagrant
 .phpunit.result.cache
